@@ -20,7 +20,7 @@ A fully interactive, classic Battleship strategy game implemented entirely in C+
 This project is built for Windows using Visual Studio, but can be adapted for any OpenGL environment.
 
 1. **Clone the repository**:
-   `ash
+   `
    git clone <repository-url>
    cd OpenGL-Battleship-Game
    `
